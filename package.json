@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/MatheusTorquete/EXPRESS_AULA1/issues"
   },
-  "homepage": "https://github.com/MatheusTorquete/EXPRESS_AULA1#readme"
+  "homepage": "https://github.com/MatheusTorquete/EXPRESS_AULA1#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
